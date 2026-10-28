@@ -1,6 +1,6 @@
 import marimo
 
-__generated_with = "0.25.2"
+__generated_with = "0.25.1"
 app = marimo.App(
     width="medium",
     layout_file="layouts/datenquellen.slides.json",
@@ -72,7 +72,7 @@ def _(mo):
     ### Folien und weitere Materialien
     finden sich hier: https://github.com/stabiberlin/tooltuesday
 
-    Die heutigen Folien: https://stabiberlin.github.io/tooltuesday/slides/datenquellen.html
+    Die heutigen Folien: https://stabiberlin.github.io/tooltuesday/datenquellen.html
     """)
     return
 
@@ -249,7 +249,6 @@ def _(LIVE, mo):
         """)
 
     _out
-
     return
 
 
