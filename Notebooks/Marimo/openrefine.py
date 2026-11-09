@@ -71,7 +71,7 @@ def _(mo):
     ### Folien und weitere Materialien
     finden sich hier: https://github.com/stabiberlin/tooltuesday
 
-    Die heutigen Folien: https://stabiberlin.github.io/tooltuesday/OpenRefine.html
+    Die heutigen Folien: https://stabiberlin.github.io/tooltuesday/openrefine.html
     """)
     return
 
