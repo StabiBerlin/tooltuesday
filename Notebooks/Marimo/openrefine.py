@@ -200,7 +200,7 @@ def _(mo):
      https://kalliope-verbund.info/sru?version=1.2&operation=searchRetrieve&query=ead.archdesc.id=%22DE-611-BF-73161%22%20AND%20ead.unitdate_start%3E=1945%20AND%20ead.unitdate_end%3C=1945&recordSchema=dc
     ```
 
-    [Abfrage 1945]([https://kalliope-verbund.info/sru?version=1.2&operation=searchRetrieve&query=ead.archdesc.id=%22DE-611-BF-3872%22&recordSchema=dc&maximumRecords=17&startRecord=616](https://kalliope-verbund.info/sru?version=1.2&operation=searchRetrieve&query=ead.archdesc.id=%22DE-611-BF-73161%22%20AND%20ead.unitdate_start%3E=1945%20AND%20ead.unitdate_end%3C=1945&recordSchema=dc))
+    [Abfrage 1945](https://kalliope-verbund.info/sru?version=1.2&operation=searchRetrieve&query=ead.archdesc.id=%22DE-611-BF-73161%22%20AND%20ead.unitdate_start%3E=1945%20AND%20ead.unitdate_end%3C=1945&recordSchema=dc)
 
     [Schnittstellenbeschreibung](https://lab.sbb.berlin/kpe/)
     """)
